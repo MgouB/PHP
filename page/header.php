@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Mon Site</title>
     <link href="https://bootswatch.com/5/morph/bootstrap.rtl.min.css" rel="stylesheet" >
   </head>
   <nav class="navbar navbar-expand-lg bg-light" data-bs-theme="light">
@@ -26,8 +26,11 @@
           <a class="nav-link" href="index.php?page=calcul">calcul</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php?page=contact">contact</a>
+          <a class="nav-link" href="index.php?page=inscription">inscription</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="index.php?page=contact">contact</a>
+        </li>       
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
           <div class="dropdown-menu">
