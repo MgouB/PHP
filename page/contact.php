@@ -43,7 +43,7 @@
             $stmt->bindParam(':message', $message);
             $r=$stmt->execute();
         }
-            if ($r){ 
+            if ($r) { 
             echo "Votre prise de contact a bien été prise en compte.<br>";
             echo "<br>".$nom." ".$prenom." a demandé un contact pour le motif suivant : \"".$sujet."\".<br>";
             echo "Envoyé depuis : ".$email." contenant le message suivant : <br>";
