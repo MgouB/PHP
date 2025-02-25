@@ -13,7 +13,7 @@ if(isset($_POST['btEgal'])){
   $resultat = $nb1 + $nb2;
 }
 
-echo 'Cours de PHP';
+
 echo '<br />Le résultat est de '.$resultat;
 ?>
 

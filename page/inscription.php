@@ -2,22 +2,23 @@
     
 
 <form method="POST"><br>
+    <h5>Nom:</h5>
     <input type="text" id="nom" name="nom" placeholder="Entrez votre nom :"/><br>
-    <br/>
+    <br/><h5>Prénom:</h5>
     <input type="text" id="prenom" name="prenom" placeholder="Entrez votre prénom :"/><br>
-    <br/>
+    <br/><h5>Mail:</h5>
     <input type="email" id="email" name="email" placeholder="Entrez votre email :"/><br>
-    <br/>
+    <br/><h5>Mots de Passe:</h5>
     <input type="password" id="password" name="mdp" placeholder="entrez votre mot de passe :"/><br>
-    <br/>
+    <br/><h5>Date de naissance:</h5>
     <input type="date" id="datenaissance" name="datenaissance" placeholder="Entrez votre date de naissance :"/><br>
-    <br/>
+    <br/><h5>Ville:</h5>
     <input type="text" id="ville" name="ville" placeholder="Entrez votre ville :"/><br>
-    <br/>
-    <input type="number" id="codepostal" name="codepostal" placeholder="Entrez votre code postal :"/><br>
-    <br/>
+    <br/><h5>Code Postal:</h5>
+    <input type="text" id="codepostal" name="codepostal" placeholder="Entrez votre code postal :"/><br>
+    <br/><h5>Adresse:</h5>
     <input type="text" id="rue" name="rue" placeholder="Entrez votre rue:"/><br>
-    <br/>
+    <br/><h5>Numéro de téléphone:</h5>
     <input type="tel" id="telephone" name="telephone" placeholder="Entrez votre numéro :"/><br>
     <br/>
     <input type="submit" id="envoiContact" name="envoiContact" value="Envoyer ma demande"/><br>

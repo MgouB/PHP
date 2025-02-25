@@ -9,7 +9,7 @@
     <h5>MOTS DE PASSE:</h5>
 <input type="password" id="password" name="password" placeholder="mots de passe:"/><br>
     <br/>
-    <input type="submit" id="envoiContact" name="envoiContact" value="se connecter"/>
+    <input type="submit" id="envoiContact" name="envoiContact" value="Se connecter"/>
 </form>
 
 <?php
